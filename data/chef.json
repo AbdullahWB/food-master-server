@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Massimo Bottura",
+        "yearsOfExperience": 35,
+        "recipesCount": 180,
+        "likesCount": 120000,
+        "photoUrl": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQlvj-mD91h6bD6qx34XAJ0GCx-QXxDNi6597r0OgXp3Zp691ISqHM6GyH8PsEq5y38jE7YVoBwp0EiibI",
+        "description": "Massimo Bottura is an Italian restaurateur and chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. He is widely recognized as one of the best chefs in the world, and is known for his innovative approach to traditional Italian cuisine."
+    },
+    {
+        "id": 2,
+        "name": "Gualtiero Marchesi",
+        "yearsOfExperience": 60,
+        "recipesCount": 250,
+        "likesCount": 90000,
+        "photoUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSGz_X0-tBQ7e6miQiHcc8fmQf7hepSH82eHnelHDqvQhtpW1hchtv_QU0MUVtvVd0C6icKV_q7HRI2WKA",
+        "description": "Gualtiero Marchesi was an Italian chef who is widely regarded as the founder of modern Italian cuisine. He was the first Italian chef to be awarded three Michelin stars and is credited with introducing many new techniques and ingredients to Italian cooking."
+    },
+    {
+        "id": 3,
+        "name": "Carlo Cracco",
+        "yearsOfExperience": 30,
+        "recipesCount": 150,
+        "likesCount": 80000,
+        "photoUrl": "https://media-assets.lacucinaitaliana.it/photos/61fae74ddd8dec89d6bd0330/1:1/w_1061,h_1061,c_limit/carlo-cracco.jpg",
+        "description": "Carlo Cracco is an Italian chef and television personality. He is the owner of the two-Michelin-starred restaurant Cracco in Milan, and is known for his modern twist on traditional Italian cuisine."
+    },
+    {
+        "id": 4,
+        "name": "Massimiliano Alajmo",
+        "yearsOfExperience": 25,
+        "recipesCount": 120,
+        "likesCount": 70000,
+        "photoUrl": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcR7l4ZXt_ZgCnT_68UiQxuQE76fYK11X66Iq2e03iKcbewke64T0fGqCrIlTxvh1-gpnGf0t-8GbAH2oiM",
+        "description": "Massimiliano Alajmo is an Italian chef who became the youngest chef to be awarded three Michelin stars in 2002. He is the owner of the three-Michelin-starred restaurant Le Calandre in Padua, Italy, and is known for his innovative and playful approach to Italian cuisine."
+    },
+    {
+        "id": 5,
+        "name": "Enrico Crippa",
+        "yearsOfExperience": 30,
+        "recipesCount": 100,
+        "likesCount": 60000,
+        "photoUrl": "https://thelocaltongue.com/wp-content/uploads/2019/07/enrico-crippa-the-local-tongue.jpg",
+        "description": "Enrico Crippa is an Italian chef and the owner of the three-Michelin-starred restaurant Piazza Duomo in Alba, Italy. He is known for his focus on local and seasonal ingredients, and for his innovative approach to traditional Italian dishes."
+    },
+    {
+        "id": 6,
+        "name": "Antonio Carluccio",
+        "yearsOfExperience": 50,
+        "recipesCount": 80,
+        "likesCount": 50000,
+        "photoUrl": "https://www.hospitalitymagazine.com.au/wp-content/uploads/carluccio.jpg",
+        "description": "Alain Ducasse is a renowned French chef with over 40 years of experience in the culinary industry. He has been awarded numerous Michelin stars throughout his career, and is known for his emphasis on fresh, high-quality ingredients and innovative cooking techniques. Ducasse has restaurants in several countries and is considered one of the most influential chefs in the world."
+    }
+]
