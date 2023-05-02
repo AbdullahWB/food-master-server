@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "img": "https://images.unsplash.com/photo-1588013273468-315fd88ea34c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+        "description": "A classic Italian pasta dish made with spaghetti, bacon, eggs, and Parmesan cheese.",
+        "price": 12.99,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "img": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+        "description": "A classic pizza made with tomato sauce, mozzarella cheese, and fresh basil.",
+        "price": 15.99,
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "name": "Chicken Parmesan",
+        "img": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "description": "A breaded and fried chicken breast topped with tomato sauce and melted mozzarella cheese.",
+        "price": 18.99,
+        "rating": 4.6
+    },
+    {
+        "id": 4,
+        "name": "Risotto alla Milanese",
+        "img": "https://images.unsplash.com/photo-1621341258668-b2bf005a9f97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "description": "A creamy rice dish made with beef broth, saffron, and Parmesan cheese.",
+        "price": 14.99,
+        "rating": 4.4
+    },
+    {
+        "id": 5,
+        "name": "Osso Buco",
+        "img": "https://www.telegraph.co.uk/content/dam/Food%20and%20drink/scotchbeef/osso-buco-alamy.jpg?imwidth=680",
+        "description": "Braised veal shanks served with a flavorful tomato-based sauce.",
+        "price": 24.99,
+        "rating": 4.7
+    },
+    {
+        "id": 6,
+        "name": "Lasagna",
+        "img": "https://images.unsplash.com/photo-1619895092538-128341789043?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "description": "A classic Italian casserole made with layers of pasta, ground beef, tomato sauce, and cheese.",
+        "price": 16.99,
+        "rating": 4.5
+    },
+    {
+        "id": 7,
+        "name": "Tiramisu",
+        "img": "https://images.unsplash.com/photo-1631206753348-db44968fd440?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+        "description": "Tiramisu is a classic Italian dessert made with layers of ladyfingers soaked in coffee and liqueur, mascarpone cheese, and cocoa powder. It's rich, creamy, and decadent.",
+        "price": 12.99,
+        "rating": 4.8
+    },
+    {
+        "id": 8,
+        "name": "Gnocchi alla Sorrentina",
+        "img": "https://images.unsplash.com/photo-1479832912902-77089f02b1d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "description": "Gnocchi alla Sorrentina is a classic Italian pasta dish made with potato gnocchi, tomato sauce, mozzarella cheese, and fresh basil. It's hearty, comforting, and perfect for any occasion.",
+        "price": 14.99,
+        "rating": 4.6
+    },
+    {
+        "id": 9,
+        "name": "Pizza Margherita",
+        "img": "https://plus.unsplash.com/premium_photo-1667682942148-a0c98d1d70db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "description": "Pizza Margherita is a classic Neapolitan pizza made with tomato sauce, fresh mozzarella cheese, and basil. It's simple, delicious, and the perfect representation of Italian cuisine.",
+        "price": 16.99,
+        "rating": 4.9
+    },
+    {
+        "id": 10,
+        "name": "Pesto Pasta",
+        "img": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "description": "Pesto Pasta is a classic Italian dish made with spaghetti, pesto sauce, and Parmesan cheese. It's simple, yet flavorful, and can be made in under 30 minutes.",
+        "price": 11.99,
+        "rating": 4.5
+    }
+]
