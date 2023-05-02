@@ -1,0 +1,326 @@
+[
+    {
+        "id": "438751993",
+        "name": "Tortellini in Brodo",
+        "img": "https://images.pexels.com/photos/2412950/pexels-photo-2412950.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "To make the filling, combine prosciutto, mortadella, pork belly, parmigiano-reggiano, eggs, nutmeg, salt, and pepper in a food processor and blend until smooth. \nTo make the pasta dough, combine flour and eggs in a food processor and blend until the mixture forms a ball. Knead the dough for 10 minutes, then wrap in plastic wrap and let it rest for 30 minutes. \nRoll out the dough and cut it into small squares. Place a small amount of filling in the center of each square, then fold the dough to create tortellini shapes. \nTo make the broth, combine chicken, onions, carrots, celery, and bay leaves in a pot with water and bring to a boil. Add the tortellini and cook until al dente. \nServe hot.",
+        "price": 25,
+        "rating": 4.8,
+        "category_id": 1
+    },
+    {
+        "id": "452738293",
+        "name": "Tagliatelle al Ragù",
+        "img": "https://images.pexels.com/photos/6287451/pexels-photo-6287451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "To make the ragù, brown ground beef in a pot with olive oil. Add onions, carrots, celery, and garlic and cook until softened. Add tomato paste, red wine, beef broth, canned tomatoes, and spices. Simmer for 2-3 hours. \nCook tagliatelle pasta according to package instructions. Serve with the ragù and grated parmesan cheese.",
+        "price": 20,
+        "rating": 4.7,
+        "category_id": 1
+    },
+    {
+        "id": "832756194",
+        "name": "Parmigiano-Reggiano Risotto",
+        "img": "https://images.pexels.com/photos/6544227/pexels-photo-6544227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "Melt butter in a pot and add chopped onions. Cook until onions are translucent. Add arborio rice and cook for 1-2 minutes. Add white wine and stir until the wine is absorbed. \nAdd chicken broth, one ladle at a time, and stir until the broth is absorbed before adding more. Repeat until the rice is cooked and the risotto is creamy. \nAdd grated parmesan cheese and stir until melted. Serve hot.",
+        "price": 18,
+        "rating": 4.6,
+        "category_id": 1
+    },
+    {
+        "id": 122135454,
+        "name": "Balsamic vinegar ice cream",
+        "img": "https://images.pexels.com/photos/6025811/pexels-photo-6025811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Combine heavy cream and milk in a saucepan over medium heat. Heat the mixture until bubbles start to form around the edges.\n2. In a separate bowl, whisk together egg yolks and sugar until the mixture becomes pale and fluffy. \n3. Pour the hot cream mixture over the egg mixture and whisk to combine. \n4. Return the mixture to the saucepan and heat until it thickens and coats the back of a spoon. \n5. Remove the mixture from the heat and stir in balsamic vinegar. Let it cool. \n6. Pour the mixture into an ice cream maker and churn according to manufacturer's instructions. \n7. Transfer the ice cream to a container and freeze until firm.\n",
+        "price": 12.99,
+        "rating": 4.8,
+        "category_id": 1
+    },
+    {
+        "id": 234673213,
+        "name": "Savory Parmigiano Reggiano gelato",
+        "img": "https://images.pexels.com/photos/5061028/pexels-photo-5061028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. In a bowl, whisk together egg yolks and sugar until the mixture becomes pale and fluffy.\n2. In a saucepan over medium heat, combine milk, heavy cream and grated Parmigiano Reggiano cheese. Cook until the cheese is melted and the mixture is heated through.\n3. Pour the hot mixture over the egg mixture and whisk to combine.\n4. Return the mixture to the saucepan and heat until it thickens and coats the back of a spoon.\n5. Remove the mixture from the heat and let it cool.\n6. Pour the mixture into an ice cream maker and churn according to manufacturer's instructions.\n7. Transfer the ice cream to a container and freeze until firm.",
+        "price": 16.99,
+        "rating": 4.9,
+        "category_id": 1
+    },
+    {
+        "id": "12345678901",
+        "name": "Parmigiano Reggiano Five Ages",
+        "img": "https://images.pexels.com/photos/3693280/pexels-photo-3693280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Preheat the oven to 150°C. Spread the 200 g of grated Parmigiano Reggiano onto a baking sheet lined with parchment paper. 2. Bake for 8 minutes. 3. Remove from the oven and let cool completely. 4. Crush the cooled cheese into a fine powder. 5. Grate the remaining 100 g of Parmigiano Reggiano. 6. In a large mixing bowl, mix together the grated and powdered cheese. 7. Serve with fresh fruit, jams or chutneys.",
+        "price": 20,
+        "rating": 4.9,
+        "category_id": 1
+    },
+    {
+        "id": "12345678902",
+        "name": "Tortellini with Parmigiano Reggiano Cream",
+        "img": "https://images.pexels.com/photos/14856123/pexels-photo-14856123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Cook the tortellini in boiling salted water. 2. Meanwhile, in a large pan, heat the cream and grated Parmigiano Reggiano cheese. 3. Drain the pasta and add to the pan with the sauce. 4. Toss well and serve hot, garnished with grated Parmigiano Reggiano.",
+        "price": 25,
+        "rating": 4.7,
+        "category_id": 3
+    },
+    {
+        "id": "12345678903",
+        "name": "Mediterranean Sole",
+        "img": "https://images.pexels.com/photos/4162869/pexels-photo-4162869.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Preheat the oven to 160°C. 2. Cut the sole into fillets and season with salt and pepper. 3. In a large skillet, heat the olive oil and add the garlic and tomatoes. 4. Cook for 2-3 minutes. 5. Add the white wine and cook for another 2-3 minutes. 6. Place the sole fillets on a baking sheet lined with parchment paper. 7. Pour the tomato mixture over the fillets. 8. Bake for 5-6 minutes, until the fish is cooked through. 9. Serve hot.",
+        "price": 30,
+        "rating": 4.8,
+        "category_id": 3
+    },
+    {
+        "id": "12345678901",
+        "name": "Tortellini with Parmigiano Reggiano cream",
+        "img": "https://images.pexels.com/photos/14781508/pexels-photo-14781508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Bring a large pot of salted water to a boil. Cook the tortellini until al dente, then drain and reserve 1 cup of pasta water.\n2. Meanwhile, in a saucepan over medium heat, melt the butter. Add the Parmigiano Reggiano and whisk until the cheese has melted and the mixture is smooth. Add the reserved pasta water and whisk until smooth and creamy.\n3. Toss the tortellini with the Parmigiano Reggiano cream sauce. Serve hot, garnished with grated Parmigiano Reggiano.",
+        "price": 25,
+        "rating": 4.5,
+        "category_id": 3
+    },
+    {
+        "id": "12345678902",
+        "name": "Tagliatelle with ragu",
+        "img": "https://images.pexels.com/photos/5908205/pexels-photo-5908205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Heat the olive oil in a large pot over medium heat. Add the onion, carrot, celery, and pancetta, and cook until the vegetables are tender and the pancetta is browned.\n2. Add the ground beef and pork, and cook until browned. Drain off any excess fat.\n3. Add the wine and cook until it has evaporated. Add the tomatoes and their juices, the bay leaves, and the beef stock. Bring to a simmer, then reduce the heat and let the sauce simmer for at least 2 hours.\n4. Cook the tagliatelle in a large pot of salted boiling water until al dente, then drain and toss with the ragu. Serve hot, garnished with grated Parmigiano Reggiano.",
+        "price": 20,
+        "rating": 4.2,
+        "category_id": 3
+    },
+    {
+        "id": 893420340234,
+        "name": "Risotto with Saffron",
+        "img": "https://images.pexels.com/photos/921362/pexels-photo-921362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Heat the butter in a saucepan and add the finely chopped onion. Sauté for 5 minutes or until the onion is translucent.\n2. Add the rice and stir it in the butter for about 2-3 minutes or until the rice becomes translucent as well.\n3. Pour in a ladleful of hot broth and stir constantly until the liquid is absorbed by the rice.\n4. Add the saffron and continue adding broth one ladleful at a time, stirring constantly until the rice is cooked.\n5. Remove the pan from heat, stir in the grated Parmigiano-Reggiano cheese and butter. Season with salt and pepper to taste.",
+        "price": 20.50,
+        "rating": 4.8,
+        "category_id": 2
+    },
+    {
+        "id": 923432431443,
+        "name": "Tiramisu",
+        "img": "https://images.pexels.com/photos/6880219/pexels-photo-6880219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Beat egg yolks and sugar in a bowl until light and creamy. Add mascarpone cheese and mix until smooth.\n2. In another bowl, beat egg whites until stiff peaks form.\n3. Fold the egg whites into the mascarpone mixture.\n4. Dip the ladyfingers into the coffee and place them at the bottom of a serving dish. Spread half of the mascarpone mixture over the ladyfingers.\n5. Repeat with another layer of ladyfingers and mascarpone mixture.\n6. Cover and refrigerate for at least 2 hours or until firm.",
+        "price": 10.80,
+        "rating": 4.7,
+        "category_id": 2
+    },
+    {
+        "id": 23,
+        "name": "Fried Rice Balls with Fontina Cheese",
+        "img": "https://www.giallozafferano.it/images/227-22752/Palline-di-riso-alla-fontina_1200x800.jpg",
+        "instructions": "1. In a saucepan, bring the broth to a boil. In another saucepan, melt the butter, then add the onion and sauté until softened. Add the rice and stir until coated with butter. Pour in the wine and stir until absorbed. Add the hot broth to the rice a ladleful at a time, stirring and letting each addition be absorbed before adding the next. \n2. Once the rice is cooked, remove from heat and stir in the grated Fontina cheese. Allow the mixture to cool until it is easy to handle. \n3. Form the rice mixture into small balls, then roll them in the flour, egg, and bread crumbs. \n4. Heat the oil in a frying pan over medium-high heat, then fry the rice balls until golden brown. Drain on paper towels and serve hot.",
+        "price": 15,
+        "rating": 4.8,
+        "category_id": 2
+    },
+    {
+        "id": 24,
+        "name": "Risotto with Porcini Mushrooms",
+        "img": "https://www.giallozafferano.it/images/231-23120/Risotto-con-i-funghi-porcini_1200x800.jpg",
+        "instructions": "1. In a saucepan, bring the broth to a boil, then reduce the heat and keep it warm. In another saucepan, melt the butter, then add the onion and sauté until softened. Add the rice and stir until coated with butter. Pour in the wine and stir until absorbed. \n2. Add a ladleful of hot broth to the rice and stir until absorbed. Continue adding broth, a ladleful at a time, stirring and letting each addition be absorbed before adding the next, until the rice is cooked but still slightly firm to the bite. \n3. In a separate frying pan, sauté the porcini mushrooms with a clove of garlic and a sprig of parsley. Once cooked, add the mushrooms to the risotto and stir well. \n4. Remove from heat, add the grated Parmesan cheese and stir well. \n5. Let the risotto rest for a few minutes, then serve hot.",
+        "price": 18,
+        "rating": 4.7,
+        "category_id": 2
+    },
+    {
+        "id": 3412387,
+        "name": "Risotto alla milanese",
+        "img": "https://images.pexels.com/photos/6659609/pexels-photo-6659609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. In a large pot, bring chicken broth to a simmer. Keep it simmering over low heat. \n2. In a separate large pot or Dutch oven, melt the butter over medium heat. Add the onion and sauté for 3-4 minutes, until softened but not browned. \n3. Add the rice to the pot and stir to coat it in the butter. Toast the rice for 1-2 minutes, until fragrant. \n4. Add the white wine to the pot and stir continuously until it has been absorbed by the rice. \n5. Begin adding the hot chicken broth to the pot, one ladleful at a time. Stir continuously and add more broth only when the previous ladleful has been absorbed. \n6. After 15-20 minutes, the rice should be cooked through but still slightly firm in the center. Remove the pot from heat and stir in the saffron and Parmesan cheese. \n7. Let the risotto rest for 1-2 minutes before serving hot.",
+        "price": 25.99,
+        "rating": 4.5,
+        "category_id": 2
+    },
+    {
+        "id": 9827356,
+        "name": "Ravioli di gamberi e ricotta",
+        "img": "https://www.giallozafferano.it/images/202-20294/Ravioli-di-gamberi-e-ricotta_780x520_wm.jpg",
+        "instructions": "1. Make the pasta dough: Combine flour, eggs, salt, and olive oil in a bowl and knead until smooth. Wrap the dough in plastic wrap and let it rest for at least 30 minutes. \n2. Make the filling: In a bowl, mix together shrimp, ricotta cheese, Parmesan cheese, garlic, parsley, salt, and pepper. \n3. Roll out the pasta dough into thin sheets and cut into circles using a cookie cutter or glass. \n4. Place a spoonful of the filling onto each circle and fold the dough in half, sealing the edges with a fork. \n5. Cook the ravioli in boiling salted water for 2-3 minutes or until they float to the surface. \n6. Serve the ravioli hot with your favorite sauce.",
+        "price": 29.99,
+        "rating": 4.8,
+        "category_id": 2
+    },
+    {
+        "id": "21568974123",
+        "name": "Risotto alla Milanese",
+        "img": "https://www.giallozafferano.it/images/199-1995/Risotto-alla-milanese_780x520_wm.jpg",
+        "instructions": "1. In a saucepan, heat the broth and keep it simmering. In another pot, melt the butter and sauté the onion until softened. Add the rice and toast for a couple of minutes. Pour in the wine and let it evaporate.2. Start adding a ladleful of broth at a time, stirring often and waiting for the liquid to be absorbed before adding more. After about 15-18 minutes, the rice should be cooked but still al dente. Add the saffron and stir.3. Turn off the heat and add the grated Parmesan cheese and the remaining butter. Stir until creamy and serve immediately.",
+        "price": 25.99,
+        "rating": 4.5,
+        "category_id": 3
+    },
+    {
+        "id": "38759651234",
+        "name": "Branzino al Sale",
+        "img": "https://www.giallozafferano.it/images/144-1441/Branzino-al-sale_780x520_wm.jpg",
+        "instructions": "1. Preheat the oven to 200°C. Line a baking dish with parchment paper.2. Rinse the sea bass and pat it dry with paper towels. Rub the inside and outside with olive oil.3. Mix the salt with enough egg whites to create a thick paste. Spread a layer of the salt mixture on the bottom of the baking dish. Place the fish on top and cover it completely with the remaining salt mixture.4. Bake for about 25-30 minutes, depending on the size of the fish.5. Crack the salt crust open and remove the fish fillets from the bones. Serve hot with a drizzle of olive oil.",
+        "price": 34.99,
+        "rating": 4.8,
+        "category_id": 3
+    },
+    {
+        "id": 61122334455,
+        "name": "Spaghetti with Tomato Sauce",
+        "img": "https://images.pexels.com/photos/6287520/pexels-photo-6287520.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Boil spaghetti in salted water until al dente. 2. In a pan, heat olive oil and sauté garlic and red pepper flakes. 3. Add canned whole peeled tomatoes and cook until the sauce thickens. 4. Add salt and pepper to taste. 5. Toss spaghetti in the sauce and serve with grated Parmesan cheese.",
+        "price": 12.99,
+        "rating": 4.8,
+        "category_id": 4
+    },
+    {
+        "id": 67894321012,
+        "name": "Osso Buco",
+        "img": "https://images.pexels.com/photos/14841924/pexels-photo-14841924.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Preheat oven to 375°F. 2. Season veal shanks with salt and pepper. 3. In a large oven-safe pot, heat olive oil and brown the veal shanks. 4. Remove the veal shanks and sauté onions, celery, and carrots until soft. 5. Add garlic and cook for 1 minute. 6. Return the veal shanks to the pot and pour in canned tomatoes and chicken broth. 7. Cover the pot and cook in the oven for 1.5-2 hours or until the meat is tender. 8. Serve with gremolata and risotto.",
+        "price": 24.99,
+        "rating": 4.9,
+        "category_id": 4
+    },
+    {
+        "id": 14356789098,
+        "name": "Spinach and Ricotta Stuffed Shells",
+        "img": "https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Preheat oven to 375°F. 2. Cook jumbo pasta shells in salted boiling water until al dente. 3. In a mixing bowl, combine spinach, ricotta cheese, egg, grated Parmesan cheese, salt, and pepper. 4. Stuff each cooked shell with the mixture. 5. Spread tomato sauce in the bottom of a baking dish and arrange the stuffed shells on top. 6. Sprinkle with grated mozzarella cheese. 7. Bake for 20-25 minutes or until the cheese is melted and bubbly.",
+        "price": 16.99,
+        "rating": 4.7,
+        "category_id": 4
+    },
+    {
+        "id": 346712,
+        "name": "Spaghetti alla Carbonara",
+        "img": "https://images.pexels.com/photos/4518833/pexels-photo-4518833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Bring a large pot of salted water to a boil and cook the spaghetti according to the package directions until al dente.\n2. Meanwhile, place the pancetta or guanciale in a cold skillet and cook over medium heat until crispy and brown, about 8 minutes.\n3. In a large mixing bowl, whisk the eggs with the grated cheese and a generous amount of black pepper.\n4. Drain the spaghetti and add it to the skillet with the pancetta or guanciale. Toss well over medium heat for a minute or two, until the spaghetti is coated and hot.\n5. Remove the skillet from the heat and add the spaghetti to the bowl with the egg mixture, tossing quickly and thoroughly so the eggs cook, but do not scramble.\n6. Serve immediately, garnished with additional grated cheese and black pepper, if desired.",
+        "price": 15.99,
+        "rating": 4.8,
+        "category_id": 4
+    },
+    {
+        "id": 541923,
+        "name": "Pesto alla Genovese",
+        "img": "https://images.pexels.com/photos/1435896/pexels-photo-1435896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. In a mortar and pestle, pound the garlic and pine nuts into a paste.\n2. Add the basil and continue to pound, using a circular motion, until the leaves are finely ground.\n3. Gradually add the cheese, a little at a time, pounding until the pesto is a smooth paste.\n4. Gradually drizzle in the olive oil, stirring with a spoon until well blended.\n5. Season the pesto with salt and pepper to taste.",
+        "price": 9.99,
+        "rating": 4.6,
+        "category_id": 4
+    },
+    {
+        "id": 13,
+        "name": "Fettuccine Alfredo",
+        "img": "https://images.pexels.com/photos/11220209/pexels-photo-11220209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. In a mortar and pestle, pound the garlic and pine nuts into a paste.\n2. Add the basil and continue to pound, using a circular motion, until the leaves are finely ground.\n3. Gradually add the cheese, a little at a time, pounding until the pesto is a smooth paste.\n4. Gradually drizzle in the olive oil, stirring with a spoon until well blended.\n5. Season the pesto with salt and pepper to taste.",
+        "price": 18.99,
+        "rating": 4.8,
+        "category_id": 4
+    },
+    {
+        "id": "1001",
+        "name": "Spaghetti Carbonara",
+        "img": "https://images.pexels.com/photos/14841924/pexels-photo-14841924.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Cook spaghetti in a large pot of salted boiling water. 2. In a separate pan, cook pancetta until crispy. 3. Beat eggs, cheese, and black pepper in a bowl. 4. Reserve 1/2 cup of pasta cooking water. 5. Drain spaghetti and return to pot. 6. Add pancetta to spaghetti and stir. 7. Add egg mixture and toss quickly. 8. Add reserved pasta water and toss until creamy. 9. Serve immediately with additional cheese and black pepper.",
+        "price": 12.99,
+        "rating": 4.5,
+        "category_id": 5
+    },
+    {
+        "id": "1002",
+        "name": "Margherita Pizza",
+        "img": "https://images.pexels.com/photos/6605223/pexels-photo-6605223.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Preheat oven to 500°F. 2. Roll out pizza dough on a floured surface. 3. Place dough on a pizza stone or baking sheet. 4. Spread tomato sauce over dough. 5. Add sliced fresh mozzarella cheese. 6. Drizzle with olive oil. 7. Bake for 10-12 minutes until crust is crispy and cheese is melted. 8. Garnish with fresh basil leaves.",
+        "price": 15.99,
+        "rating": 4.2,
+        "category_id": 5
+    },
+    {
+        "id": "1003",
+        "name": "Pork Chops with Apples and Onions",
+        "img": "https://images.pexels.com/photos/8294168/pexels-photo-8294168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Preheat oven to 375°F. 2. Season pork chops with salt and pepper. 3. Heat olive oil in a skillet over medium-high heat. 4. Sear pork chops until browned on both sides. 5. Remove pork chops from skillet and set aside. 6. Add sliced onions and apples to the skillet. 7. Cook until softened. 8. Add chicken broth and bring to a boil. 9. Return pork chops to skillet. 10. Bake in preheated oven for 20-25 minutes until cooked through. 11. Serve with apples and onions on top.",
+        "price": 19.99,
+        "rating": 4.8,
+        "category_id": 5
+    },
+    {
+        "id": "1004",
+        "name": "Linguine with Clam Sauce",
+        "img": "https://images.pexels.com/photos/3606800/pexels-photo-3606800.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Cook linguine in a large pot of salted boiling water. 2. In a separate pan, cook minced garlic in olive oil until fragrant. 3. Add chopped clams and clam juice to the pan. 4. Cook until clams are heated through. 5. Add linguine to the pan and toss with clam sauce. 6. Garnish with chopped parsley.",
+        "price": 14.99,
+        "rating": 4.3,
+        "category_id": 5
+    },
+    {
+        "id": "501",
+        "name": "Spaghetti Carbonara",
+        "img": "https://images.pexels.com/photos/4518840/pexels-photo-4518840.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente, about 8 minutes. Reserve 1 cup of the pasta water, then drain the spaghetti and set aside.\n2. In a large skillet, cook the pancetta over medium heat until crispy, about 8-10 minutes. Using a slotted spoon, remove the pancetta and set aside. Leave the pancetta fat in the pan.\n3. In a mixing bowl, whisk together the eggs, Parmesan cheese, and black pepper. Set aside.\n4. Add the cooked spaghetti to the skillet with the pancetta fat and toss until coated. Remove from heat.\n5. Gradually pour the egg mixture over the spaghetti, tossing constantly to avoid scrambling the eggs. If the sauce seems too thick, add some of the reserved pasta water a little at a time to thin it out.\n6. Add the cooked pancetta back to the skillet and toss to combine. Serve immediately, garnished with additional Parmesan cheese and black pepper if desired.",
+        "price": 15.99,
+        "rating": 4.5,
+        "category_id": 5
+    },
+    {
+        "id": "502",
+        "name": "Margherita Pizza",
+        "img": "https://images.pexels.com/photos/14773007/pexels-photo-14773007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Preheat the oven to 500°F (260°C). If you have a pizza stone, place it in the oven on the middle rack.\n2. Lightly flour a flat surface and stretch the pizza dough out to your desired shape and thickness. Transfer the dough to a lightly floured pizza peel or baking sheet.\n3. Spread the tomato sauce over the dough, leaving a small border around the edges. Sprinkle the mozzarella cheese over the sauce.\n4. Drizzle the olive oil over the pizza and season with salt and pepper.\n5. If using a pizza stone, carefully slide the pizza onto the stone using the pizza peel. If using a baking sheet, transfer the baking sheet to the oven.\n6. Bake for 8-10 minutes, until the crust is golden brown and the cheese is melted and bubbly. Remove from the oven and let cool for a few minutes before slicing and serving.",
+        "price": 17.99,
+        "rating": 4.2,
+        "category_id": 5
+    },
+    {
+        "id": "2001",
+        "name": "Saffron Risotto",
+        "img": "https://images.pexels.com/photos/8864542/pexels-photo-8864542.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Heat chicken broth in a separate pot. 2. Melt butter in a pan and add chopped onion. 3. Add Arborio rice and stir for a few minutes. 4. Pour white wine and let it evaporate. 5. Start adding hot chicken broth, one ladle at a time, stirring frequently until absorbed. 6. Continue adding broth and stirring until the rice is creamy and cooked. 7. Add saffron and grated Parmesan cheese. 8. Mix well and serve hot.",
+        "price": 18.99,
+        "rating": 4.6,
+        "category_id": 6
+    },
+    {
+        "id": "2002",
+        "name": "Spaghetti Cacio e Pepe",
+        "img": "https://images.pexels.com/photos/1527603/pexels-photo-1527603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Cook spaghetti in a large pot of salted boiling water. 2. Reserve 1 cup of pasta water. 3. In a separate pan, melt butter over medium heat. 4. Add black pepper and cook for 1 minute. 5. Add 1/2 cup of reserved pasta water and bring to a boil. 6. Drain spaghetti and add to the pan. 7. Add grated Pecorino Romano cheese and toss until creamy. 8. Add more pasta water if necessary. 9. Serve hot with additional black pepper.",
+        "price": 14.99,
+        "rating": 4.3,
+        "category_id": 6
+    },
+    {
+        "id": "2003",
+        "name": "Osso Buco alla Milanese",
+        "img": "https://media.istockphoto.com/id/1322366968/photo/yellow-risotto-alla-milanese-with-saffron-and-bone-marrow-on-a-plate.jpg?b=1&s=612x612&w=0&k=20&c=BJ_x2lbW4AFmXXs4hh33EMerahLWdNaSERp39toDW5M=",
+        "instructions": "1. Preheat oven to 350°F. 2. Season veal shanks with salt and pepper. 3. In a large pot, heat olive oil over medium-high heat. 4. Brown veal shanks on all sides. 5. Remove veal shanks and set aside. 6. Add chopped onion, carrot, and celery to the pot. 7. Cook until softened. 8. Add chopped tomatoes and chicken broth. 9. Return veal shanks to the pot. 10. Cover and bake in preheated oven for 2-3 hours until meat is tender. 11. Serve hot with gremolata on top.",
+        "price": 32.99,
+        "rating": 4.9,
+        "category_id": 6
+    },
+    {
+        "id": "2005",
+        "name": "Gnocchi alla Romana",
+        "img": "https://images.pexels.com/photos/6659543/pexels-photo-6659543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Preheat oven to 375°F. 2. Heat milk in a pot until boiling. 3. Add semolina and stir constantly until thickened. 4. Remove from heat and add egg yolks, grated Parmesan cheese, and nutmeg. 5. Mix well and spread mixture onto a baking sheet. 6. Let it cool until firm. 7. Use a cookie cutter to cut out gnocchi. 8. Place gnocchi in a baking dish. 9. Sprinkle with grated Parmesan cheese and dot with butter. 10. Bake in preheated oven for 15-20 minutes until golden brown. 11. Serve hot.",
+        "price": 20.99,
+        "rating": 4.7,
+        "category_id": 6
+    },
+    {
+        "id": "2006",
+        "name": "Tiramisu",
+        "img": "https://images.pexels.com/photos/7783241/pexels-photo-7783241.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Brew strong espresso and let it cool. 2. In a mixing bowl, whisk egg yolks and sugar until pale and thick. 3. Add mascarpone cheese and mix well. 4. In a separate bowl, whisk egg whites until stiff peaks form. 5. Fold egg whites into mascarpone mixture. 6. Dip ladyfingers in cooled espresso and place in a serving dish. 7. Spread mascarpone mixture over the ladyfingers. 8. Repeat layers until all ingredients are used up. 9. Chill in the refrigerator for at least 2 hours. 10. Dust with cocoa powder before serving.",
+        "price": 12.99,
+        "rating": 4.5,
+        "category_id": 6
+    },
+    {
+        "id": "2007",
+        "name": "Risotto al Barolo",
+        "img": "https://images.pexels.com/photos/14537683/pexels-photo-14537683.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructions": "1. Heat chicken broth in a separate pot. 2. Melt butter in a pan and add chopped onion. 3. Add Arborio rice and stir for a few minutes. 4. Pour Barolo wine and let it evaporate. 5. Start adding hot chicken broth, one ladle at a time, stirring frequently until absorbed. 6. Continue adding broth and stirring until the rice is creamy and cooked. 7. Add grated Parmesan cheese and stir well. 8. Season with salt and pepper. 9. Serve hot.",
+        "price": 28.99,
+        "rating": 4.8,
+        "category_id": 6
+    }
+]
