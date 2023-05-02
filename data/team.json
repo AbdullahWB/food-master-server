@@ -1,0 +1,74 @@
+[
+      {
+        "id": 1,
+        "name": "John Smith",
+        "work_title": "General Manager",
+        "description": "John has been with our hotel for over 10 years and brings a wealth of experience in hotel management. He is committed to providing exceptional service to our guests and ensuring that our hotel runs smoothly.",
+        "photo_url": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "id": 2,
+        "name": "Jessica Lee",
+        "work_title": "Front Desk Manager",
+        "description": "Jessica is responsible for ensuring that our front desk operations run smoothly. She is dedicated to providing excellent customer service to our guests and always goes the extra mile to make sure that their stay is enjoyable.",
+        "photo_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80"
+      },
+      {
+        "id": 3,
+        "name": "Daniel Park",
+        "work_title": "Executive Chef",
+        "description": "Daniel brings a passion for cooking and a dedication to using the freshest ingredients to his role as our Executive Chef. He is committed to creating delicious and innovative dishes that showcase the best of our local cuisine.",
+        "photo_url": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+      },
+      {
+        "id": 4,
+        "name": "Emily Johnson",
+        "work_title": "Event Coordinator",
+        "description": "Emily is responsible for ensuring that all of our events, from weddings to corporate meetings, are executed flawlessly. She is dedicated to making sure that every detail is taken care of so that our guests can enjoy a stress-free experience.",
+        "photo_url": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "id": 5,
+        "name": "David Lee",
+        "work_title": "Housekeeping Manager",
+        "description": "David is responsible for ensuring that our guests' rooms are always clean and comfortable. He takes great pride in his work and is committed to providing the highest level of cleanliness and comfort to our guests.",
+        "photo_url": "https://images.unsplash.com/photo-1565608087341-404b25492fee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      },
+      {
+        "id": 6,
+        "name": "Karen Kim",
+        "work_title": "Marketing Manager",
+        "description": "Karen is responsible for promoting our hotel and ensuring that we reach the right audience. She is dedicated to creating marketing campaigns that showcase the unique features of our hotel and attract guests who are looking for a one-of-a-kind experience.",
+        "photo_url": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      },
+      {
+        "id": 7,
+        "name": "Michael Chen",
+        "work_title": "Chief Engineer",
+        "description": "Michael oversees all of the technical aspects of our hotel, from the HVAC system to the electrical systems. He is dedicated to ensuring that our hotel is safe, comfortable, and efficient, and that our guests have a seamless experience.",
+        "photo_url": "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+      },
+      {
+        "id": 8,
+        "name": "Jennifer Kim",
+        "work_title": "Sales Manager",
+        "description": "Jennifer is responsible for managing our sales team and ensuring that we meet our revenue targets. She is dedicated to building strong relationships with our clients and ensuring that they have a positive experience from start to finish.",
+        "photo_url": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      },
+      {
+        "id": 9,
+        "name": "Isabella Lopez",
+        "work_title": "Housekeeper",
+        "description": "Isabella takes great pride in keeping our rooms clean and comfortable for our guests. She is detail-oriented and works efficiently to ensure that each room is thoroughly cleaned and sanitized.",
+        "photo_url": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      },
+      {
+        "id": 10,
+        "name": "Juan Rodriguez",
+        "work_title": "Maintenance Technician",
+        "description": "Juan is responsible for keeping our property in excellent condition. He is skilled in all aspects of maintenance and repairs, and works diligently to address any issues that arise. Our guests appreciate his prompt and efficient service.",
+        "photo_url": "https://images.unsplash.com/photo-1610896011699-bf6f466b024e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80"
+      }
+      
+]
+  
