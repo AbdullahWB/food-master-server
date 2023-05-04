@@ -32,6 +32,10 @@ app.get('/foods', (req, res) => {
     res.send(foods)
 })
 
+app.get('/recipes', (req, res) => { 
+    res.send(chefFood)
+})
+
 app.get('/categories/category/:id', (req, res) => { 
     const id = req.params.id;
     const selectedFood = chefFood.find(f => f.id == id);
